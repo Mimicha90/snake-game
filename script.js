@@ -1,7 +1,7 @@
 window.onload = function () {
     let canvasWidth = 900;
     let canvasHeigth = 600;
-    let blockSize = 30;
+    let blockSize = 40;
     let ctx;
     let delay = 100;
     let xCoord = 0;
